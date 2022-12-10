@@ -12,3 +12,5 @@ Arrays.sort() - sorts both the char arrays
 Arrays.equal() - checks if the sorted char array are equal
 If sorted arrays are equal, then the strings are anagram.
 ```
+
+### Note: The Arrays.sort() compares two characters with ASCII value. And, characters R and r are not equal. Hence, strings should be converted to the same case.
