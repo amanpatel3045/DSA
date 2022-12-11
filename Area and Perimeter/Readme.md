@@ -20,5 +20,16 @@ Constraints
 
 Print(Perimeter of rectangle 1 >Perimeter of rectangle 2)
 
+# Sample Input 1 
+```
+1 2 2 3
 
+```
+# Sample Output 1
+
+```
+false
+false
+
+```
 
