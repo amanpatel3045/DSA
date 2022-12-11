@@ -6,4 +6,19 @@
 
 ## You need print if perimeter of rectangle 1 is greater than rectangle 2.
 
+# Input
+
+## The first line of each test case contains two space-separated integers L1, B1, L2, B2 , the length and breadth of the rectangle1 andthe length and breadth of the rectangle2.
+
+Constraints
+
+1 <= L1, B1, L2, B2 <= 100
+
+
+# Output
+## Print(Area of rectangle 1 > Area of rectangle 2)
+
+Print(Perimeter of rectangle 1 >Perimeter of rectangle 2)
+
+
 
